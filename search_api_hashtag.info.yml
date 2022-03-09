@@ -1,0 +1,8 @@
+name: 'Search API Hashtag'
+type: module
+description: 'Extracts hashtags from content to be indexed by Search API.'
+package: Search
+dependencies:
+  - search_api
+core: 8.x
+core_version_requirement: ^8 || ^9

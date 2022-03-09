@@ -1,0 +1,17 @@
+{
+  "name": "DOM-Digital-Online-Media/search_api_hashtag",
+  "description": "Extracts hashtags from content to be indexed by Searh API.",
+  "type": "drupal-module",
+  "homepage": "https://github.com/DOM-Digital-Online-Media/search_api_hashtag",
+  "authors": [
+    {
+      "name": "Pablo López",
+      "homepage": "https://www.drupal.org/u/plopesc"
+    }
+  ],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/search_api": "^1.23"
+  }
+}
